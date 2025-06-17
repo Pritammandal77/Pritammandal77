@@ -1,50 +1,66 @@
-<h1 align="center">Hi 👋, I'm Pritam Mandal</h1>
-<h3 align="center">A passionate fullstack developer </h3>
-
-- 📫 How to reach me: **pritampmandal@gmail.com**
-- 📫 How to reach me: **https://pritammandal.netlify.app**
-- ⚡ Fun fact: *I drink code instead of coffee ☕*
-
----
-
-### 🚀 Languages and Tools:
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,cpp,firebase,nodejs,express,mongodb,git,github,vscode,vercel,netlify" />
-</p>
-
----
-
-### 📊 GitHub Stats:
+<h1 align="center">🚀 Hey there! I'm <span style="color:#00FFFF">Pritam Mandal</span> 👋</h1>
+<h3 align="center">💻 Passionate Fullstack Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritammandal&show_icons=true&locale=en&theme=tokyonight" alt="pritammandal" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pritammandal&theme=tokyonight&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pritammandal&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Wizard+%F0%9F%9A%80;Backend+Builder+%F0%9F%9B%A0%EF%B8%8F;React+Lover+%F0%9F%92%9A;Open+Source+Contributor" />
 </p>
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/pritam-mandal19" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-<a href="https://twitter.com/pritamdev_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
-<a href="mailto:pritammandalcontact@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+- 🔭 I’m currently building **DevStackr** – A platform for developers to connect, share, and grow.
+- 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Backend Optimization**.
+- 💬 Ask me about **React.js, Redux, Firebase, MongoDB, Node.js, Tailwind CSS**.
+- 🌐 Portfolio: [pritammandal.netlify.app](https://pritammandal.netlify.app)
+- 📫 Reach me: **pritampmandal@gmail.com**
+- ⚡ Fun fact: *I drink code instead of coffee ☕. Sleep is just a myth for developers 😴.*
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,firebase,cpp,git,github,vscode,vercel,netlify" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pritammandal77&show_icons=true&theme=tokyonight" height="200"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pritammandal77&theme=tokyonight&hide_border=false" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritammandal77&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Pritammandal77&theme=tokyonight&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Pritammandal77&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&row=2&column=4" />
 </p>
 
 ---
 
-### ✨ Total Contributions & Repos
-Use ye badge waale:
+### 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritammandal77&theme=tokyo-night&area=true&hide_border=true" />
+</p>
 
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:pritammandalcontact@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
+  <a href="https://linkedin.com/in/pritam-mandal19"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://twitter.com/pritamdev_"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
+  <a href="https://instagram.com/pritam.js"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+</p>
+
+---
+
+### 🧠 Stats & Insights
 ```md
 ![Profile Views](https://komarev.com/ghpvc/?username=Pritammandal77&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/Pritammandal77?style=social)
