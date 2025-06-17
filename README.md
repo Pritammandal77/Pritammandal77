@@ -53,15 +53,7 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:pritammandalcontact@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30"/></a>
-  <a href="https://linkedin.com/in/pritam-mandal19"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
-  <a href="https://twitter.com/pritamdev_"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
-  <a href="https://instagram.com/pritam.js"><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
+  <a href="[https://linkedin.com/in/pritam-mandal19](https://www.linkedin.com/in/pritam-mandal-871510281/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://skillicons.dev/icons?i=linkedin" height="30"/></a>
+  <a href="https://x.com/pritam_mandal77?t=5DL3ZfZzOSgerE2DMQJ5wg&s=09"><img src="https://skillicons.dev/icons?i=twitter" height="30"/></a>
+  <a href="https://www.instagram.com/pritam_mandal_77?igsh=MWE5cXF5ZGpxam84eA=="><img src="https://skillicons.dev/icons?i=instagram" height="30"/></a>
 </p>
-
----
-
-### 🧠 Stats & Insights
-```md
-![Profile Views](https://komarev.com/ghpvc/?username=Pritammandal77&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/Pritammandal77?style=social)
-![Repos](https://badges.pufler.dev/repos/Pritammandal77)
