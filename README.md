@@ -7,12 +7,11 @@
 
 ---
 
-- 🔭 I’m currently building **DevStackr** – A platform for developers to connect, share, and grow.
 - 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Backend Optimization**.
-- 💬 Ask me about **React.js, Redux, Firebase, MongoDB, Node.js, Tailwind CSS**.
+- 💬 Ask me about **React.js, Redux, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB,**.
 - 🌐 Portfolio: [pritammandal.netlify.app](https://pritammandal.netlify.app)
 - 📫 Reach me: **pritampmandal@gmail.com**
-- ⚡ Fun fact: *I drink code instead of coffee ☕. Sleep is just a myth for developers 😴.*
+- ⚡ Fun fact: *I drink code instead of coffee ☕.*
 
 ---
 
