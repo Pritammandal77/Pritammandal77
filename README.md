@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Backend Optimization**.
+- 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Data Structures & Algorithms**.
 - 💬 Ask me about **React.js, Redux, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**.
 - 🌐 Portfolio: [pritammandal.netlify.app](https://pritammandal.netlify.app)
 - 📫 Reach me: **pritampmandal@gmail.com**
