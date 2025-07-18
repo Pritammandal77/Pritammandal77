@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hey there! I'm <span style="color:#00FFFF">Pritam Mandal</span> </h1>
+<h1 align="center">🚀 Hey there! I'm <span style="color:#00FFFF">Pritam Mandal</span> 👋 </h1>
 <h3 align="center">💻 Passionate Fullstack Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
