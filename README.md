@@ -12,7 +12,7 @@
 - 🌐 Portfolio: [pritammandal.netlify.app](https://pritammandal.netlify.app)
 - 📫 Reach me: **pritampmandal@gmail.com**
 - ⚡ Fun fact: *I drink code instead of coffee ☕.*
-- <p align="center">
+- <p>
   <img src="https://komarev.com/ghpvc/?username=Pritammandal77&label=Profile%20views&color=66CCFF&style=flat-square" alt="Pritammandal77" />
 </p>
 
