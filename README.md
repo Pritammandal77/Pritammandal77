@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Data Structures & Algorithms**.
 - 💬 Ask me about **React.js, Redux, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**.
-- 🌐 Portfolio: [pritammandal.netlify.app](https://pritammandal.netlify.app)
+- 🌐 Portfolio: [pritammandal.vercel.app](https://pritammandal.vercel.app)
 - 📫 Reach me: **pritampmandal@gmail.com**
 - ⚡ Fun fact: *I drink code instead of coffee ☕.*
 - <p>
