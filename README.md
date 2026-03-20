@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hey there! I'm <span style="color:#00FFFF">Pritam Mandal</span> 👋 </h1>
-<h3 align="center">💻 Passionate Fullstack Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
+<h3 align="center">💻 Passionate Fullstack Developer Engineer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Wizard+%F0%9F%9A%80;Backend+Builder+%F0%9F%9B%A0%EF%B8%8F;React+Lover+%F0%9F%92%9A;Open+Source+Contributor" />
@@ -7,8 +7,7 @@
 
 ---
 
-- 🌱 Currently learning **Advanced Node.js**, **System Design**, and **Data Structures & Algorithms**.
-- 💬 Ask me about **React.js, Redux, Tailwind CSS, Firebase, Node.js, Express.js, MongoDB**.
+- 💬 Ask me about **React.js, Redux, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB**.
 - 🌐 Portfolio: [pritammandal.vercel.app](https://pritammandal.vercel.app)
 - 📫 Reach me: **pritampmandal@gmail.com**
 - ⚡ Fun fact: *I drink code instead of coffee ☕.*
@@ -20,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,firebase,cpp,git,github,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,tailwind,nodejs,express,mongodb,firebase,cpp,git,github,vscode,vercel,netlify, render" />
 </p>
 
 ---
