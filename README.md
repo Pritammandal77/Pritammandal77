@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hey there! I'm <span style="color:#00FFFF">Pritam Mandal</span> 👋 </h1>
-<h3 align="center">💻 Passionate Fullstack Developer Engineer | MERN Stack Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Passionate Fullstack Developer Engineer | MERN Stack | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Frontend+Wizard+%F0%9F%9A%80;Backend+Builder+%F0%9F%9B%A0%EF%B8%8F;React+Lover+%F0%9F%92%9A;Open+Source+Contributor" />
